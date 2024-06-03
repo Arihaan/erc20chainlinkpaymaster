@@ -2,6 +2,8 @@
 
 Connecting zkSync Native Account Abstraction with Chainlink Price Feeds.
 
+![ERC20ChainlinkPaymaster](https://github.com/Arihaan/erc20chainlinkpaymaster/assets/48653895/3b796a34-ac91-4788-bc72-07e2d0a3b0fa)
+
 #### This project demonstrates a new zkSync Paymaster for **connecting the innovation of zkSync Native Account Abstraction with the ease and security of Chainlink Price Feeds**.
 
 ## What it does

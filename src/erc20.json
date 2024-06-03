@@ -1,0 +1,20 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "name": "Ether",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0xcB2B2d0dc5C629cd73154c097073012338eB8a4B",
+    "decimals": 18,
+    "name": "myUSDC",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x23A1aFD896c8c8876AF46aDc38521f4432658d1e",
+    "decimals": 18,
+    "name": "LinkToken",
+    "symbol": "LINK"
+  }
+]

@@ -38,8 +38,6 @@ The ERC20ChainlinkPaymaster.sol contract is written in Solidity and deployed usi
 
 A simple Greeter contract and Vue.js front-end application are used to demonstrate this Paymaster.
 
-![ERC20ChainlinkPaymaster](https://github.com/Arihaan/erc20chainlinkpaymaster/assets/48653895/7ea1065f-ad32-4afc-b036-6693dc79c41d)
-
 The Chainlink Data Feeds are used both off-chain and on-chain to determine how many ERC20 tokens are required.
 
 ## Team
